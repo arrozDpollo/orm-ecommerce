@@ -56,7 +56,7 @@ DELETE /api/categories/
 Similar routes are available for products and tags.
 
 ## Walkthrough Video
-Link to the walkthrough video
+[Link to the walkthrough video](https://github.com/arrozDpollo/orm-ecommerce/blob/main/module-13.mp4)
 
 This video demonstrates:
 
